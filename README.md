@@ -14,6 +14,9 @@ TorchUP is a lightweight and user-friendly app that turns your mobile device int
 * 🔋 Battery Efficient: Designed to consume minimal power while active.
 * 📲 Quick Access: Easily toggle the flashlight without needing to unlock the phone (planned feature).
 ## Screenshots 📷
+<img src="Screenshots/20240926194150.jpg">
+<img src="Screenshots/20240926194159.jpg">
+
 ## Prerequisites 🛠️
 
 * Flutter SDK: Make sure you have Flutter installed. Follow Flutter installation instructions if needed.
