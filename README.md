@@ -60,3 +60,9 @@ flutter run
  * Widget for quick access from the home screen.
  * SOS signal mode for emergencies.
  * Strobe light feature with adjustable speed.
+
+## Need a quick light? Tap the image below to download the APK and turn your phone into an instant flashlight! Brighten up your world in seconds!
+
+<a href="Torch APP.apk">
+    <img src="assets/apklogo.png" alt="Download Torch App">
+</a>
